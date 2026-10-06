@@ -14,7 +14,7 @@
 下面是一个常见情形，不是某位具体房主的故事。 一栋九十年代的独立屋挂牌一周就收到报价。买家验屋后拿着报告回来：地下室套间查不到报批记录，水管是 Poly-B，后院可能埋过油罐。买家的保险经纪说要先确认几项才能出单，贷款也跟着悬着。子条款期还剩三天，房主只剩两个选择：大幅让价，或者看着交易散掉。 这些毛病，房主其实多少心里有数，只是没人帮他排过优先级：哪些该先修、哪些该如实写进披露、哪些根本不用碰。 买家在谈判桌上找到的毛病，价格由买家定；你在上市前自己找到的，主动权还在你手里。
 
 ## 先从房子的年代自查一遍
-勾一勾，看看要先翻出哪些记录。年代只是常见情形的提示，不代表你家一定有这些问题。 html <div class="selfcheck" style="border:1px solid var(--accent,8a5414);border-radius:14px;padding:16px;background:var(--soft,fbf3e8);max-width:620px;line-height:1.7" <label style="display:block"<input type="checkbox" value="polyb" 房子大约建于 1985–1997 年之间，或那段时间换过水管</label <label style="display:block"<input type="checkbox" value="alu" 房子大约建于 1960 年代中到 1970 年代中</label <label style="display:block"<input type="checkbox" value="kt" 房子建于 1950 年以前</label <label style="display:block"<input type="checkbox" value="oil" 房子早年用过燃油取暖，或你不确定后院有没有油罐</label <label style="display:block"<input type="checkbox" value="suite" 地下室有出租套间，或改过厨房、卫生间、电路、燃气</label <label style="display:block"<input type="checkbox" value="strata" 是公寓或联排（strata）</label <label style="display:block"<input type="checkbox" value="vacant" 打算先搬走，房子空着挂牌</label <div id="sc-out" style="margin-top:12px;padd
+勾一勾，看看要先翻出哪些记录。年代只是常见情形的提示，不代表你家一定有这些问题。
 
 ## 只查文件与记录，不出验屋报告
 房产上市前体检看的是纸面上的东西，不是到场检测： 查什么 看的是 ------ 产权与登记 有没有抵押、留置、限制登记 许可记录 地下室、改电、改燃气、加建当年有没有报批 旧装修合同与发票 谁做的、做了什么、有没有持证人员签字 现在的保险单 限制条款、对旧系统的要求 strata 文件（公寓、联排） 会议纪要里的漏水与纠纷、已批未收的特别征费、折旧报告里的大修 需要现场检测的——验屋、电气、燃气、水管、石棉——由持照的人去做，你直接和他们签约。
