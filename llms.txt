@@ -91,7 +91,7 @@ BC 的卖方常被经纪请填一份物业披露声明（Property Disclosure Sta
 答：许多保单对长期无人居住另有规定，可能须通知保险公司或加附条款；装修、开放日期间也宜告知保险公司。保单不宜在挂牌时退保。如需对照现有保单，或在需要时取得空置期报价，可在表单中选择「房屋保险咨询」。
 
 问：是否提供估价或挂牌价建议？
-答：不提供。价格意见与挂牌策略在 BC 属于持牌地产服务，只能由持牌经纪通过其所属 brokerage 提供。上市前审阅不涉及估价。
+答：上市前审阅不涉及估价。价格意见与挂牌，可由持牌地产经纪经其所属 brokerage 另行承接。
 
 问：是否推荐施工方或验屋师？是否收取介绍费？
 答：如有需要，提供两三家供您比较，并说明筛选理由，以及我们与对方有无利益关系；不抽成，不收取介绍费，由您直接与对方签约。
@@ -107,4 +107,4 @@ BC 的卖方常被经纪请填一份物业披露声明（Property Disclosure Sta
 - BCFSA：披露与重大潜在缺陷指引的更新（Sewell v. Abadian 之后）: https://www.bcfsa.ca/industry-resources/real-estate-professional-resources/knowledge-base/advisory/updates-bcfsas-disclosures-and-material-latent-defects-guidance
 - Real Estate Magazine：Sewell v. Abadian 案报道: https://realestatemagazine.ca/b-c-buyer-awarded-300000-deposit-after-sellers-disclosure-misstep/
 
-本站内容为一般信息，不构成法律、税务、估价或保险建议。上市前审阅只看文件与记录，不出具验屋报告，不施工，不估价，不承接挂牌委托。验屋由持照验屋师提供，价格意见与交易代表只能由持牌经纪通过其所属 brokerage 提供。已知的重大潜在缺陷，披露责任在卖方。团队成员持有保险业务牌照，可能因您购买保险获得佣金，您可以选择任何保险经纪；团队中的持牌地产经纪与本服务分开，不以请其代理为条件；我们不收取、不支付转介费。
+价格意见与交易代表由持牌地产经纪经其所属 brokerage 另行提供。重大潜在缺陷的披露责任在卖方；保险顾问可能因投保获得佣金，您可以选择其他经纪。
